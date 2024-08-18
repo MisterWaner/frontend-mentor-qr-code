@@ -7,13 +7,17 @@ It was a challenge to build a QR code component and get it looking as close to t
 
 ## Links
 
-- [Live Project](https://frontendmentor.io/solutions/qr-code-component-iux_sIO_H)
+- [Live Project](https://misterwaner.github.io/frontend-mentor-qr-code/)
+- [Solution URL](https://github.com/MisterWaner/frontend-mentor-qr-code)
 
 ## Languages & Tools:
 
 - HTML
 - CSS
 
+## Author
+
+[Erwan S.](https://github.com/MisterWaner)
 
 
 

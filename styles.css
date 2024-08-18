@@ -60,3 +60,10 @@ body {
         color: rgb(104, 119, 141);
     }
 }
+
+.attribution {
+    text-align: center;
+    font-size: 12px;
+    color: rgb(104, 119, 141);
+    margin-top: 16px;
+}
